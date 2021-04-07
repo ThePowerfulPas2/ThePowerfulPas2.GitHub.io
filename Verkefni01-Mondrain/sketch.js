@@ -14,7 +14,7 @@ function setup() {
   rect(470,270,300,90);
   fill(240); //Hvítur 3
   rect(470,370,300,300);
-  fill(240,240,0); //Gulur
+  fill(240,220,0); //Gulur
   rect(210,490,140,300);
   fill(20); //"Svartur"
   rect(360,490,110,300);
